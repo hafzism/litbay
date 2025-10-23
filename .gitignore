@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log
+.vscode
+
+# Build outputs
+frontend/build/
+frontend/dist/
+backend/dist/
+frontend/.git1/
+backend/.git1/
+backend/.env
+frontend/.env
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+*.log
