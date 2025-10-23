@@ -2,6 +2,8 @@
 
 LitBay is a full-stack Mini e-commerce platform built using the MERN stack (MongoDB, Express, React, Node.js) with Tailwind CSS for styling.
 It lets users explore, search, and purchase books online — while admins manage products, categories, and orders.
+
+here's live link: https://d3ai0wwxkr3sud.cloudfront.net
 ## Features
 
 - Light/dark mode toggle
